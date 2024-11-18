@@ -5,6 +5,8 @@ Traffic Sign Recognition is a critical application for safe driving for drivers 
 
 **Project Presentation** - https://docs.google.com/presentation/d/1inMU3ht42rYHNjVkH5GuNg9JECulbnzw/edit?usp=sharing&ouid=105774298058523382059&rtpof=true&sd=true
 
-**Dataset** - https://drive.google.com/file/d/1xqXr4e974d2TaNsnyVx2uPkG1vSjhggB/view?usp=sharing
+**Dataset**              - https://drive.google.com/file/d/1xqXr4e974d2TaNsnyVx2uPkG1vSjhggB/view?usp=sharing
 
-**Project Report** - https://drive.google.com/file/d/1-1UVJEcZgOUQKam8fGsrbOU94hkKpc0h/view?usp=sharing
+**Project Report**       - https://drive.google.com/file/d/1-1UVJEcZgOUQKam8fGsrbOU94hkKpc0h/view?usp=sharing 
+
+**Documentation**        - https://docs.google.com/document/d/1nBjr8s3_utrpZdkoc0IuK47kBKIG-Vfu/edit?usp=drive_link&ouid=105774298058523382059&rtpof=true&sd=true
